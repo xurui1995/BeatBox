@@ -12,6 +12,5 @@
         android:layout_gravity="center"
 
         tools:text="Sound name">
-
     </Button>
 </FrameLayout>
